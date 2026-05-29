@@ -1,34 +1,51 @@
-# 👋 Olá, eu sou o Artur Araujo!
-💻 Estudante de Ciência da Computação | Foco em Engenharia de Dados & IA
+# Artur Araujo &nbsp;⚡
 
-⚙️ Técnico em Eletrônica em transição para área Tech
+> *"De circuitos e sensores para dados e algoritmos."*
 
-📍 Guarulhos - SP
+🎯 Técnico em Eletrônica com +6 anos no mercado, migrando para Dados & IA com foco e propósito  
+🎓 Graduando em Ciência da Computação — Unicsul  
+📍 Guarulhos, SP
 
-## 🧠 Sobre mim
-Técnico em Eletrônica com mais de 6 anos de experiência em instrumentação analítica, automação de processos e documentação técnica, em transição estruturada para a área de Tecnologia. Atualmente cursando Ciência da Computação com foco em Engenharia de Dados e Inteligência Artificial.
+---
 
-Minha trajetória em empresas como Danaher (Hexis Científica) e Alem Mar desenvolveu raciocínio analítico sólido, rigor técnico e capacidade de resolução de problemas — competências que aplico no desenvolvimento de soluções em dados e IA.
+## 👨‍💻 Quem sou eu
 
-Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da minha evolução na área de tecnologia.
+Passei anos calibrando instrumentos analíticos, escrevendo POPs e resolvendo problemas em laboratórios de alta exigência. Com o tempo, percebi que o que eu mais gostava era justamente a parte de **analisar dados, identificar padrões e propor melhorias** — e foi aí que decidi migrar para tecnologia de forma estruturada.
 
-## 🎓 Formação
-- 🎓 Bacharelado em Ciência da Computação — Universidade Cruzeiro do Sul (em andamento)
-- 🎓 Técnico em Eletrônica — SENAI Hermenegildo Campos de Almeida
+Hoje combino uma base técnica sólida com estudos em **Python, SQL e Engenharia de Dados**, construindo um portfólio real enquanto curso Ciência da Computação.
 
-## 📜 Certificações
-- 🤖 Especialista em Inteligência Artificial — Santander Open Academy (2026)
-- 💬 Engenharia de Prompt — Santander Open Academy (2026)
-- 🔐 Introdução à Cibersegurança — Cisco (2026)
+Esse perfil é o meu canteiro de obras. Fique à vontade para explorar.
 
-## 📈 Objetivo
-Busco oportunidade como Estagiário ou Analista Júnior nas áreas de Dados, Python ou Inteligência Artificial, onde possa combinar meu raciocínio analítico com habilidades técnicas em desenvolvimento.
+---
 
-## 📫 Contato
-- 📧 E-mail: arturmrl26@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/artur-araujo-0a91a9a1
+## 🎓 Formação & Certificações
 
-## 🤖 Linguagens e Tecnologias
+| | |
+|---|---|
+| 🖥️ Bacharelado em Ciência da Computação | Unicsul — em andamento |
+| ⚡ Técnico em Eletrônica | SENAI — concluído |
+| 🤖 Especialista em IA | Santander Open Academy — 2026 |
+| 💬 Engenharia de Prompt | Santander Open Academy — 2026 |
+| 🔐 Introdução à Cibersegurança | Cisco — 2026 |
+
+---
+
+## 🚀 Onde quero chegar
+
+Primeira oportunidade como **Estagiário ou Analista Júnior** em Dados, Python ou IA — onde eu possa aprender rápido, contribuir de verdade e crescer junto com o time.
+
+---
+
+## 📬 Me encontre aqui
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturmrl26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-araujo-0a91a9a1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arturmrl26)
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
 <img 
     align="left" 
     alt="Python"
@@ -81,7 +98,10 @@ Busco oportunidade como Estagiário ou Analista Júnior nas áreas de Dados, Pyt
 <br/>
 <br/>
 
+---
+
 ## 📊 Estatísticas
+
 <p>
   <img 
     width="49%"
