@@ -6,13 +6,13 @@
 ## 🧠 Sobre mim
 Técnico em Eletrônica com mais de 6 anos de experiência em instrumentação analítica, automação de processos e documentação técnica, em transição estruturada para a área de Tecnologia. Atualmente cursando Ciência da Computação com foco em Engenharia de Dados e Inteligência Artificial.
 
-Minha trajetória em empresas como Danaher (Hexis Científica) e Alem Mar desenvolveu raciocínio analítico sólido, rigor técnico e capacidade de resolução de problemas, competências que aplico no desenvolvimento de soluções em dados e IA.
+Minha trajetória em empresas como Danaher (Hexis Científica) e Alem Mar desenvolveu raciocínio analítico sólido, rigor técnico e capacidade de resolução de problemas — competências que aplico no desenvolvimento de soluções em dados e IA.
 
 Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da minha evolução na área de tecnologia.
 
 ## 🎓 Formação
 - 🎓 Bacharelado em Ciência da Computação — Universidade Cruzeiro do Sul (em andamento)
-- 🎓 Técnico em Eletrônica — SENAI Hermenegildo Campos de Almeida (Concluído)
+- 🎓 Técnico em Eletrônica — SENAI Hermenegildo Campos de Almeida
 
 ## 📜 Certificações
 - 🤖 Especialista em Inteligência Artificial — Santander Open Academy (2026)
@@ -65,7 +65,7 @@ Busco oportunidade como Estagiário ou Analista Júnior nas áreas de Dados, Pyt
     title="Git"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
 />
 <img
     align="left" 
@@ -82,13 +82,11 @@ Busco oportunidade como Estagiário ou Analista Júnior nas áreas de Dados, Pyt
 ## 📊 Estatísticas
 <p>
   <img 
-    align="left" 
-    width="48%"
+    width="49%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturmrl26&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
   <img 
-    align="left" 
-    height="200"
+    width="49%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arturmrl26&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
