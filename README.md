@@ -1,9 +1,7 @@
 # Artur Araujo &nbsp;⚡
 
-> *"De circuitos e sensores para dados e algoritmos."*
-
 🎯 Técnico em Eletrônica com +6 anos no mercado, migrando para Dados & IA com foco e propósito  
-🎓 Graduando em Ciência da Computação — Unicsul  
+🎓 Graduando em Ciência da Computação 
 📍 Guarulhos, SP
 
 ---
