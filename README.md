@@ -1,97 +1,53 @@
-# Artur Araujo &nbsp;⚡
+# 👋 Olá, eu sou o Artur Araujo!
 
-🎯 Técnico em Eletrônica com +6 anos no mercado, migrando para Dados & IA com foco e propósito  
-🎓 Graduando em Ciência da Computação 
-📍 Guarulhos, SP
+🔧 Técnico em Eletrônica em transição para a área Tech  
+🎓 Graduando em Ciência da Computação | Foco em Engenharia de Dados & IA  
+📍 Guarulhos - SP
 
 ---
 
-## 👨‍💻 Quem sou eu
+## 🧠 Sobre mim
 
-Passei anos calibrando instrumentos analíticos, escrevendo POPs e resolvendo problemas em laboratórios de alta exigência. Com o tempo, percebi que o que eu mais gostava era justamente a parte de **analisar dados, identificar padrões e propor melhorias** — e foi aí que decidi migrar para tecnologia de forma estruturada.
+Sou Técnico em Eletrônica com mais de 6 anos de experiência em instrumentação analítica, automação de processos e documentação técnica. Ao longo da minha trajetória, desenvolvi um forte raciocínio analítico trabalhando em empresas como Danaher (Hexis Científica) e Alem Mar, sempre lidando com dados de calibração, controle de qualidade e melhoria de processos.
 
-Hoje combino uma base técnica sólida com estudos em **Python, SQL e Engenharia de Dados**, construindo um portfólio real enquanto curso Ciência da Computação.
+Hoje estou em transição estruturada para Tecnologia, cursando Ciência da Computação com foco em Engenharia de Dados e Inteligência Artificial. Trago comigo a disciplina técnica do ambiente laboratorial e aplico isso no aprendizado de Python, SQL e IA.
 
-Esse perfil é o meu canteiro de obras. Fique à vontade para explorar.
+Aqui no GitHub você encontra meus projetos, estudos e a evolução prática dessa jornada.
 
 ---
 
 ## 🎓 Formação & Certificações
 
-| | |
-|---|---|
-| 🖥️ Bacharelado em Ciência da Computação | Unicsul — em andamento |
-| ⚡ Técnico em Eletrônica | SENAI — concluído |
-| 🤖 Especialista em IA | Santander Open Academy — 2026 |
-| 💬 Engenharia de Prompt | Santander Open Academy — 2026 |
-| 🔐 Introdução à Cibersegurança | Cisco — 2026 |
+- 🖥️ Bacharelado em Ciência da Computação — Universidade Cruzeiro do Sul *(em andamento)*
+- 🤖 Especialista em Inteligência Artificial — Santander Open Academy *(em andamento)*
+- ⚡ Técnico em Eletrônica — SENAI Hermenegildo Campos de Almeida *(Concluído, 2026)*
+- 💬 Engenharia de Prompt — Santander Open Academy *(Concluído, 2026)*
+- 🔐 Introdução à Cibersegurança — Cisco *(Concluído, 2026)*
 
 ---
 
-## 🚀 Onde quero chegar
+## 📈 Objetivo
 
-Primeira oportunidade como **Estagiário ou Analista Júnior** em Dados, Python ou IA — onde eu possa aprender rápido, contribuir de verdade e crescer junto com o time.
-
----
-
-## 📬 Me encontre aqui
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturmrl26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-araujo-0a91a9a1)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arturmrl26)
+Busco minha primeira oportunidade como Estagiário ou Analista Júnior nas áreas de Dados, Python ou Inteligência Artificial, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+## 📫 Contato
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
-/>
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
-/>
-<img
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+- 📧 E-mail: arturmrl26@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/artur-araujo-0a91a9a1
+- 🐙 GitHub: https://github.com/arturmrl26
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
+<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
 <br/>
 <br/>
@@ -100,13 +56,11 @@ Primeira oportunidade como **Estagiário ou Analista Júnior** em Dados, Python 
 
 ## 📊 Estatísticas
 
-<p>
-  <img 
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturmrl26&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-  />
-  <img 
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arturmrl26&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
-  />
-</p>
+<img 
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturmrl26&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+/>
+<img 
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arturmrl26&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+/>
