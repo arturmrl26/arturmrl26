@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou o Artur Araujo!
 💻 Estudante de Ciência da Computação | Foco em Engenharia de Dados & IA
-
 ⚙️ Técnico em Eletrônica em transição para Tecnologia
-
 📍 Guarulhos - SP
 
 ## 🧠 Sobre mim
