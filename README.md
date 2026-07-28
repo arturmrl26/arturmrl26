@@ -19,8 +19,6 @@ Aqui no GitHub você encontra meus projetos, estudos e a evolução prática des
 ## 🎓 Formação & Certificações
 
 - 🖥️ Bacharelado em Ciência da Computação — Universidade Cruzeiro do Sul *(em andamento)*
-- 🤖 Especialista em Inteligência Artificial — Santander Open Academy *(em andamento)*
-- 💬 Engenharia de Prompt — Santander Open Academy *(Concluído, 2026)*
 - 🔐 Introdução à Cibersegurança — Cisco *(Concluído, 2026)*
 - ⚡ Técnico em Eletrônica — SENAI Hermenegildo Campos de Almeida *(Concluído, 2014)*
 
