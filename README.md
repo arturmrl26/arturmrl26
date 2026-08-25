@@ -33,7 +33,7 @@ Busco minha primeira oportunidade como Estagiário ou Analista Júnior nas área
 ## 📫 Contato
 
 - 📧 E-mail: arturmrl26@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/artur-araujo-0a91a9a1
+- 💼 LinkedIn: https://www.linkedin.com/in/arturaraujosantos
 - 🐙 GitHub: https://github.com/arturmrl26
 
 ---
