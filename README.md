@@ -1,64 +1,33 @@
-# 👋 Olá, eu sou o Artur Araujo!
+# ⚔️ Artur Araujo
 
-🔧 Técnico em Eletrônica em transição para a área Tech  
-🎓 Graduando em Ciência da Computação | Foco em Engenharia de Dados & IA  
-📍 Guarulhos - SP
+> **Ferreiro de circuitos · aprendiz de código**
 
----
+Técnico em Eletrônica, estudante de Ciência da Computação e aventureiro em uma nova jornada: **Dados e Inteligência Artificial**.
 
-## 🧠 Sobre mim
+Da bancada ao código, trago experiência em diagnóstico, reparo de placas, calibração e documentação técnica. Aqui registro meus estudos e os projetos que vou construindo pelo caminho.
 
-Sou Técnico em Eletrônica com mais de 6 anos de experiência em instrumentação analítica, automação de processos e documentação técnica. Ao longo da minha trajetória, desenvolvi um forte raciocínio analítico trabalhando em empresas como Danaher (Hexis Científica) e Alem Mar, sempre lidando com dados de calibração, controle de qualidade e melhoria de processos.
+📍 Guarulhos · SP
 
-Hoje estou em transição estruturada para Tecnologia, cursando Ciência da Computação com foco em Engenharia de Dados e Inteligência Artificial. Trago comigo a disciplina técnica do ambiente laboratorial e aplico isso no aprendizado de Python, SQL e IA.
+## 🧰 Inventário
 
-Aqui no GitHub você encontra meus projetos, estudos e a evolução prática dessa jornada.
+- **Meu ofício:** eletrônica, instrumentação analítica e soldagem SMD/BGA.
+- **Em aprendizado:** Python, SQL, C, Engenharia de Dados e IA.
+- **Ferramentas de estudo:** MySQL, Power BI, Git e GitHub.
 
----
+## 🗺️ Próxima missão
 
-## 🎓 Formação & Certificações
+Conquistar minha primeira oportunidade de **estágio ou nível júnior em Dados, Python ou IA**, levando a disciplina da eletrônica para o desenvolvimento de software.
 
-- 🖥️ Bacharelado em Ciência da Computação — Universidade Cruzeiro do Sul *(em andamento)*
-- 🔐 Introdução à Cibersegurança — Cisco *(Concluído, 2026)*
-- ⚡ Técnico em Eletrônica — SENAI Hermenegildo Campos de Almeida *(Concluído, 2014)*
+**Já saiu da forja:** [Jogo da Forca em Python](https://github.com/arturmrl26/jogo-da-forca-python) — projeto da graduação para praticar lógica de programação no terminal.
 
----
+## 📜 Formação
 
-## 📈 Objetivo
+- **Ciência da Computação** — Universidade Cruzeiro do Sul · em andamento.
+- **Introdução à Cibersegurança** — Cisco · 2026.
+- **Técnico em Eletrônica** — SENAI Hermenegildo Campos de Almeida · 2014.
 
-Busco minha primeira oportunidade como Estagiário ou Analista Júnior nas áreas de Dados, Python ou Inteligência Artificial, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.
+## 🔥 Ao redor da fogueira
 
----
+[E-mail](mailto:arturmrl26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arturaraujosantos) · [Énóis](https://enois.ia.br/perfil/arturaraujo)
 
-## 📫 Contato
-
-- 📧 E-mail: arturmrl26@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/arturaraujosantos
-- 🐙 GitHub: https://github.com/arturmrl26
-
----
-
-## 🛠️ Linguagens e Tecnologias
-
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-
-<br/>
-<br/>
-
----
-
-## 📊 Estatísticas
-
-<img 
-  width="49%"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturmrl26&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-/>
-<img 
-  width="49%"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arturmrl26&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
-/>
+*A fogueira segue acesa. A aventura está só começando.*
